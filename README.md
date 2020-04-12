@@ -44,10 +44,6 @@ Hard498. Parking Lot\
 22%
 
 ### 3 - Linear Data Structure I 
-Naive241. String to Integer\
-53%\
-Naive145. Lowercase to Uppercase\
-68%\
 Easy521. Remove Duplicate Numbers in Array\
 43%\
 Easy385. ArrayList\
@@ -60,8 +56,6 @@ Medium499. Word Count (Map Reduce)\
 52%\
 Medium415. Valid Palindrome\
 31%\
-Naive146. Lowercase to Uppercase II\
-48%\
 Easy235. Prime Factorization\
 41%\
 Easy243. Amicable Pair\
