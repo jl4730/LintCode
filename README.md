@@ -13,7 +13,7 @@ Medium 616. Course Schedule II\
 Medium 418. Integer to Roman\
 52%\
 Hard 629. Minimum Spanning Tree\
-41%\
+41%
 
 ## 2 Loops, Function & OOP 
 Naive484. Swap Two Integers in Array\
@@ -29,4 +29,4 @@ Easy491. Palindrome Number\
 Easy479. Second Max of Array\
 37%\
 Easy455. Student ID\
-40%\
+40%
