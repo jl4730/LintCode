@@ -29,4 +29,16 @@ Easy491. Palindrome Number\
 Easy479. Second Max of Array\
 37%\
 Easy455. Student ID\
-40%
+40%\
+Naive366. Fibonacci\
+28%\
+Easy497. Shape Factory\
+27%\
+Easy239. Root of Equation\
+22%\
+Easy147. Narcissistic Number\
+33%\
+Easy413. Reverse Integer\
+31%\
+Hard498. Parking Lot\
+22%
