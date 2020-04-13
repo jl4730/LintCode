@@ -114,3 +114,25 @@ Medium36. Reverse Linked List II\
 33%\
 Medium12. Min Stack\
 40%
+
+### 5 - Binary Tree & Depth First Traversal 
+Easy376. Binary Tree Path Sum\
+27%\
+Easy482. Binary Tree Level Sum\
+50%\
+Easy481. Binary Tree Leaf Sum\
+61%\
+Easy480. Binary Tree Paths\
+38%\
+Easy97. Maximum Depth of Binary Tree\
+58%\
+Easy67. Binary Tree Inorder Traversal\
+50%\
+Easy66. Binary Tree Preorder Traversal\
+48%\
+Easy470. Tweaked Identical Binary Tree\
+41%\
+Easy469. Same Tree\
+48%\
+Hard87. Remove Node in Binary Search Tree\
+29%
