@@ -158,4 +158,51 @@ Hard87. Remove Node in Binary Search Tree\
 29%\
 
 ### 7 - Set, Dictionary & Divide and Conquer 
+Easy521. Remove Duplicate Numbers in Array\
+43%\
+Easy487. Name Deduplication\
+52%\
+Easy469. Same Tree\
+48%\
+Easy93. Balanced Binary Tree\
+42%\
+Easy56. Two Sum\
+36%\
+Medium95. Validate Binary Search Tree\
+26%\
+Medium94. Binary Tree Maximum Path Sum\
+28%\
+Easy557. Count Characters\
+68%\
+Easy138. Subarray Sum\
+34%\
+Medium124. Longest Consecutive Sequence\
+39%\
+Hard65. Median of two Sorted Arrays\
+30%\
 
+## 8 - Sort Algorithm 
+Easy464. Sort Integers II\
+38%\
+Easy173. Insertion Sort List\
+33%\
+Easy6. Merge Two Sorted Arrays\
+43%\
+Medium532. Reverse Pairs\
+30%\
+Medium184. Largest Number\
+22%\
+Medium148. Sort Colors\
+41%\
+Medium139. Subarray Sum Closest\
+24%\
+Medium98. Sort List\
+31%\
+Medium31. Partition Array\
+34%\
+Easy156. Merge Intervals\
+28%\
+Medium5. Kth Largest Element\
+33%\
+Hard43. Maximum Subarray III\
+28%\
