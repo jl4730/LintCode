@@ -1,7 +1,5 @@
 # Basic Algorithm Ladder
 ## 1 - Introduce Python - Variable 
-Naive 37. Reverse 3-digit Integer\
-65%\
 Easy 766. Leap Year\
 67%\
 Easy 9. Fizz Buzz\
@@ -16,14 +14,6 @@ Hard 629. Minimum Spanning Tree\
 41%
 
 ## 2 Loops, Function & OOP 
-Naive484. Swap Two Integers in Array\
-77%\
-Naive478. Simple Calculator\
-47%\
-Naive222. Setter and Getter\
-66%\
-Naive283. Max of 3 Numbers\
-69%\
 Easy491. Palindrome Number\
 45%\
 Easy479. Second Max of Array\
@@ -155,7 +145,7 @@ Medium70. Binary Tree Level Order Traversal II\
 Medium127. Topological Sorting\
 42%\
 Hard87. Remove Node in Binary Search Tree\
-29%\
+29%
 
 ### 7 - Set, Dictionary & Divide and Conquer 
 Easy521. Remove Duplicate Numbers in Array\
@@ -179,7 +169,7 @@ Easy138. Subarray Sum\
 Medium124. Longest Consecutive Sequence\
 39%\
 Hard65. Median of two Sorted Arrays\
-30%\
+30%
 
 ## 8 - Sort Algorithm 
 Easy464. Sort Integers II\
@@ -205,4 +195,4 @@ Easy156. Merge Intervals\
 Medium5. Kth Largest Element\
 33%\
 Hard43. Maximum Subarray III\
-28%\
+28%
