@@ -1,4 +1,4 @@
-# Python & Basic Algorithm Ladder
+# Basic Algorithm Ladder
 ## 1 - Introduce Python - Variable 
 Naive 37. Reverse 3-digit Integer\
 65%\
