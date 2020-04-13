@@ -68,3 +68,49 @@ Medium113. Remove Duplicates from Sorted List II\
 29%\
 Medium36. Reverse Linked List II\
 33%
+
+### 4 - Linear Data Structure II 
+Easy495. Implement Stack\
+59%\
+Easy494. Implement Stack by Two Queues\
+44%\
+Easy492. Implement Queue by Linked List\
+43%\
+Easy219. Insert Node in Sorted Linked List\
+32%\
+Easy452. Remove Linked List Elements\
+22%\
+Easy423. Valid Parentheses\
+33%\
+Easy174. Remove Nth Node From End of List\
+32%\
+Easy165. Merge Two Sorted Lists\
+43%\
+Easy35. Reverse Linked List\
+45%\
+Medium40. Implement Queue by Two Stacks\
+50%\
+Naive228. Middle of Linked List\
+48%\
+Easy493. Implement Queue by Linked List II\
+35%\
+Easy217. Remove Duplicates from Unsorted List\
+40%\
+Easy451. Swap Nodes in Pairs\
+40%\
+Easy372. Delete Node in a Linked List\
+52%\
+Easy112. Remove Duplicates from Sorted List\
+40%\
+Medium511. Swap Two Nodes in Linked List\
+22%\
+Medium229. Stack Sorting\
+43%\
+Medium223. Palindrome Linked List\
+32%\
+Medium113. Remove Duplicates from Sorted List II\
+29%\
+Medium36. Reverse Linked List II\
+33%\
+Medium12. Min Stack\
+40%
