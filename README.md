@@ -136,3 +136,26 @@ Easy469. Same Tree\
 48%\
 Hard87. Remove Node in Binary Search Tree\
 29%
+
+### 6 - Breadth First Traversal & BST 
+Easy242. Convert Binary Tree to Linked Lists by Depth\
+57%\
+Easy177. Convert Sorted Array to Binary Search Tree With Minimal Height.\
+35%\
+Easy85. Insert Node in a Binary Search Tree\
+45%\
+Medium760. Binary Tree Right Side View\
+64%\
+Medium95. Validate Binary Search Tree\
+26%\
+Medium71. Binary Tree Zigzag Level Order Traversal\
+35%\
+Medium70. Binary Tree Level Order Traversal II\
+49%\
+Medium127. Topological Sorting\
+42%\
+Hard87. Remove Node in Binary Search Tree\
+29%\
+
+### 7 - Set, Dictionary & Divide and Conquer 
+
