@@ -15,7 +15,7 @@ Hard 629. Minimum Spanning Tree\
 
 ## 2 Loops, Function & OOP 
 Easy491. Palindrome Number\
-45%\
+45%\ ***+1***
 Easy479. Second Max of Array\
 37%\
 Easy455. Student ID\
