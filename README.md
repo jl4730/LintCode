@@ -14,10 +14,10 @@ Hard 629. Minimum Spanning Tree\
 41%
 
 ## 2 Loops, Function & OOP 
-Easy491. Palindrome Number\
-45%\ 
-Easy479. Second Max of Array\
-37%\
+Easy491. Palindrome Number \
+45% \
+Easy479. Second Max of Array \
+37% \
 Easy455. Student ID\
 40%\
 Naive366. Fibonacci\
