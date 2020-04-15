@@ -14,6 +14,8 @@ Hard 629. Minimum Spanning Tree\
 41%
 
 ## 2 Loops, Function & OOP 
+Naive366. Fibonacci\
+28%\
 Easy491. Palindrome Number \
 45% \
 Easy479. Second Max of Array \
