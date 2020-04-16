@@ -34,8 +34,6 @@ Hard498. Parking Lot\
 22%
 
 ### 3 - Linear Data Structure I 
-Easy385. ArrayList\
-44%\
 Easy172. Remove Element\
 33%\
 Easy53. Reverse Words in a String\
