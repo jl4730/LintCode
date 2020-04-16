@@ -34,8 +34,6 @@ Hard498. Parking Lot\
 22%
 
 ### 3 - Linear Data Structure I 
-Easy521. Remove Duplicate Numbers in Array\
-43%\
 Easy385. ArrayList\
 44%\
 Easy172. Remove Element\
