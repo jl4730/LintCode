@@ -44,8 +44,6 @@ Medium415. Valid Palindrome\
 31%\
 Easy235. Prime Factorization\
 41%\
-Easy243. Amicable Pair\
-24%\
 Easy112. Remove Duplicates from Sorted List\
 40%\
 Medium656. Multiply Strings\
