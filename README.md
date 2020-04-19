@@ -14,20 +14,12 @@ Hard 629. Minimum Spanning Tree\
 41%
 
 ## 2 Loops, Function & OOP 
-Naive366. Fibonacci\
-28%\
 Easy491. Palindrome Number \
 45% \
 Easy479. Second Max of Array \
 37% \
 Easy455. Student ID\
 40%\
-Easy497. Shape Factory\
-27%\
-Easy239. Root of Equation\
-22%\
-Easy147. Narcissistic Number\
-33%\
 Easy413. Reverse Integer\
 31%\
 Hard498. Parking Lot\
@@ -38,14 +30,14 @@ Easy172. Remove Element\
 33%\
 Easy53. Reverse Words in a String\
 29%\
-Medium499. Word Count (Map Reduce)\
-52%\
-Medium415. Valid Palindrome\
-31%\
 Easy235. Prime Factorization\
 41%\
 Easy112. Remove Duplicates from Sorted List\
 40%\
+Medium499. Word Count (Map Reduce)\
+52%\
+Medium415. Valid Palindrome\
+31%\
 Medium656. Multiply Strings\
 34%\
 Medium113. Remove Duplicates from Sorted List II\
