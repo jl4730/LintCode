@@ -48,8 +48,6 @@ Medium36. Reverse Linked List II\
 ### 4 - Linear Data Structure II 
 Easy495. Implement Stack\
 59%\
-Easy494. Implement Stack by Two Queues\
-44%\
 Easy492. Implement Queue by Linked List\
 43%\
 Easy219. Insert Node in Sorted Linked List\
