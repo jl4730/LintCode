@@ -64,10 +64,6 @@ Easy165. Merge Two Sorted Lists\
 43%\
 Easy35. Reverse Linked List\
 45%\
-Medium40. Implement Queue by Two Stacks\
-50%\
-Naive228. Middle of Linked List\
-48%\
 Easy493. Implement Queue by Linked List II\
 35%\
 Easy217. Remove Duplicates from Unsorted List\
@@ -78,6 +74,8 @@ Easy372. Delete Node in a Linked List\
 52%\
 Easy112. Remove Duplicates from Sorted List\
 40%\
+Medium40. Implement Queue by Two Stacks\
+50%\
 Medium511. Swap Two Nodes in Linked List\
 22%\
 Medium229. Stack Sorting\
