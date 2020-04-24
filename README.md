@@ -60,8 +60,6 @@ Easy165. Merge Two Sorted Lists\
 43%\
 Easy35. Reverse Linked List\
 45%\
-Easy217. Remove Duplicates from Unsorted List\
-40%\
 Easy451. Swap Nodes in Pairs\
 40%\
 Easy372. Delete Node in a Linked List\
