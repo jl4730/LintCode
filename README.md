@@ -64,8 +64,6 @@ Easy451. Swap Nodes in Pairs\
 40%\
 Easy372. Delete Node in a Linked List\
 52%\
-Easy112. Remove Duplicates from Sorted List\
-40%\
 Medium40. Implement Queue by Two Stacks\
 50%\
 Medium511. Swap Two Nodes in Linked List\
