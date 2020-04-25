@@ -80,8 +80,6 @@ Medium12. Min Stack\
 40%
 
 ### 5 - Binary Tree & Depth First Traversal 
-Easy481. Binary Tree Leaf Sum\
-61%\
 Easy97. Maximum Depth of Binary Tree\
 58%\
 Easy67. Binary Tree Inorder Traversal\
