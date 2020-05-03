@@ -90,8 +90,6 @@ Easy66. Binary Tree Preorder Traversal\
 48%\
 Easy469. Same Tree\
 48%\
-Easy470. Tweaked Identical Binary Tree\
-41%\
 Easy480. Binary Tree Paths\
 38%\
 Easy376. Binary Tree Path Sum\
